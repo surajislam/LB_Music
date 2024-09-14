@@ -1,4 +1,4 @@
-BBimport re
+import re
 import os
 from os import getenv
 
